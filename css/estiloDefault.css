@@ -1,0 +1,38 @@
+﻿body {
+    background-color: #eee;
+}
+
+header {
+    line-height: 1;
+    border-bottom: 4px solid #076a7a;
+    font-weight: bold !important;
+    background-color: #fff;
+}
+
+    header .row {
+        margin-right: 0;
+    }
+
+footer {
+    padding: .5rem 0 0;
+    color: #076a7a;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: 4px solid #17a2b8;
+}
+
+    footer p {
+        margin-bottom: .5rem;
+    }
+
+.bg-cyan {
+    background-color: #17a2b8;
+}
+
+.container {
+    background-color: #fff;
+}
+
+.dropdown-item:hover {
+    background-color: #ade8f1;
+}

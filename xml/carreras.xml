@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<carreras>
+  <carrera>
+    <nombrec>Ingenieria en Sistemas Computacionales</nombrec>
+  </carrera>
+  <carrera>
+    <nombrec>Ingenieria en Sistemas Automotriz</nombrec>
+  </carrera>
+  <carrera>
+    <nombrec>Licenciatura en Gastronomia</nombrec>
+  </carrera>
+  <carrera>
+    <nombrec>Ingeniaeria en Gestion Empresarial</nombrec>
+  </carrera>
+  <carrera>
+    <nombrec>Ingeneria en Electronica</nombrec>
+  </carrera>
+  <carrera>
+    <nombrec>Ingenieria Industrial</nombrec>
+  </carrera>
+  <carrera>
+    <nombrec>Ingenieria Ambiental</nombrec>
+  </carrera>
+  <carrera>
+    <nombrec>Licenciatura en Gastronomia</nombrec>
+  </carrera>
+</carreras>

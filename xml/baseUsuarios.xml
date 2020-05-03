@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Usuario>
+    <id>1</id>
+    <nombre>Coordinador</nombre>
+    <primerApellido>Sistemas</primerApellido>
+    <segundoApellido>computacionales</segundoApellido>
+    <email>sistemas@itsur.com</email>
+    <contrasena>5cb9065decdae936a9129c968918649c810d3f6a</contrasena>
+    <carrera_usuario>Ingenieria en Sistemas Computacionales</carrera_usuario>
+    <tipo_usuario>Coordinador</tipo_usuario>
+  </Usuario>
+  <Usuario>
+    <id>2</id>
+    <nombre>Aaron</nombre>
+    <primerApellido>Castillo</primerApellido>
+    <segundoApellido>Castro</segundoApellido>
+    <email>aaron@a.aa</email>
+    <contrasena>04a57cd36614f7ee233d8d73231165a75fb98c9b</contrasena>
+    <carrera_usuario>Licenciatura en Gastronomia</carrera_usuario>
+    <tipo_usuario>Encargado</tipo_usuario>
+  </Usuario>
+  <Usuario>
+    <id>3</id>
+    <nombre>ejemplo</nombre>
+    <primerApellido>ejemplo</primerApellido>
+    <segundoApellido></segundoApellido>
+    <email>qwerty@a.aa</email>
+    <contrasena>ce325dd8aa3a85e733aba4a823a01ba7525cba74</contrasena>
+    <carrera_usuario>Ingenieria en Sistemas Computacionales</carrera_usuario>
+    <tipo_usuario>Docente</tipo_usuario>
+  </Usuario>
+  <Usuario>
+    <id>4</id>
+    <nombre>Coordinador</nombre>
+    <primerApellido>Automotive</primerApellido>
+    <segundoApellido></segundoApellido>
+    <email>automotriz@a.aa</email>
+    <contrasena>8d12b74d940a38ca75a6d9ee668c4679068459a3</contrasena>
+    <carrera_usuario>Ingenieria en Sistemas Automotriz</carrera_usuario>
+    <tipo_usuario>Coordinador</tipo_usuario>
+  </Usuario>
+</Usuarios>
